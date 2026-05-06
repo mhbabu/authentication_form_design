@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:practice/forgot_password_screen.dart';
 import 'package:practice/signup_screen.dart';
 
 class ForgotPasswordScreen extends StatelessWidget {
